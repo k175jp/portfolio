@@ -1,3 +1,4 @@
+---
 title: weekly-04-oidc-idp
 description: Secure OIDC Identity Provider with BFF pattern client
 tags:
