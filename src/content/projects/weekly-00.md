@@ -29,10 +29,9 @@ This project serves as the foundational hub for my weekly development series, sh
 # Features
 
 - Personal introduction and overview
-- Showcase of projects (rendered from Markdown in `src/content/projects`)
+- Showcase of projects
 - Responsive and modern UI
-- High performance using Astro's static site generation
-- Automated deployment with GitHub Actions
+- Automated deployment
 
 ---
 

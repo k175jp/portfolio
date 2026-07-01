@@ -14,26 +14,26 @@ github: https://github.com/k175jp/weekly-05-terraform-lambda
 
 A simple, scalable AWS Lambda function project deployed using Terraform.
 
-The project demonstrates fundamental Infrastructure as Code (IaC) principles by managing AWS resources (Lambda, IAM, CloudWatch Logs) programmatically. It is configured to stay within the AWS Free Tier, including cost-conscious settings like short log retention policies.
+The project demonstrates fundamental Infrastructure as Code (IaC) principles by managing AWS resources (Lambda, IAM, CloudWatch Logs) programmatically. It is configured to stay within the AWS Free Tier.
 
 ---
 
 # Tech Stack
 
-- **Infrastructure**: Terraform
-- **Lambda Function**: Python
-- **Cloud Provider**: AWS (Lambda, IAM, CloudWatch)
+- Terraform
+- Python
+- AWS Cloud
 
 ---
 
 # Features
 
-- **Automated Infrastructure**: Full lifecycle management of AWS resources using Terraform (`init`, `plan`, `apply`, `destroy`).
-- **Cost-Effective Design**: Implemented CloudWatch Log Group with a 7-day retention policy to minimize storage costs.
-- **Infrastructure as Code**: Definitive HCL configuration for Lambda and associated IAM roles, following best practices.
+- Automated Infrastructure lifecycle
+- Cost-effective log management
+- Infrastructure as Code best practices
 
 ---
 
 # Notes
 
-Focused on learning IaC principles and serverless deployment on AWS. This project serves as a starting point for managing cloud infrastructure programmatically while prioritizing cost-awareness and maintainability.
+Focused on learning IaC principles and serverless deployment on AWS.

@@ -21,7 +21,7 @@ Users can register, log in, and manage personal notes.
 
 - Next.js
 - React
-- Authentication (JWT or session-based)
+- Authentication
 
 ---
 
